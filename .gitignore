@@ -1,0 +1,8 @@
+# Local-only artifacts
+local/
+*.sqlite3
+*.log
+
+# Environment / secrets
+.env
+.env.*
